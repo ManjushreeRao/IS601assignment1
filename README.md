@@ -1,4 +1,4 @@
 # Hey
-I am Shloka
+I am Manjushree
 I am pursuing masters in Computer science
 
